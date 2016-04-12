@@ -3,7 +3,8 @@
 class Test extends PHPUnit_Framework_TestCase
 {
 	public function testOnePlusOne() {
-		$this->assertEquals(1+1,20000000);
+		//ok now it play
+		$this->assertEquals(1+2,3);
   	}
 }
 
