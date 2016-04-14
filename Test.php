@@ -7,5 +7,5 @@ class Test extends PHPUnit_Framework_TestCase
 		$this->assertEquals(1+2,3);
   	}
 }
-
+//add here
 ?>
